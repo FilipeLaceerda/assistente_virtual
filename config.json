@@ -1,0 +1,35 @@
+{
+    "nome": "caio",
+    "acoes": [
+        {
+            "nome": "ligar",
+            "objeto": [
+                "climatizador"
+            ]
+        },
+        {
+            "nome": "desligar",
+            "objeto": [
+                "climatizador"
+            ]
+        },
+        {
+            "nome": "diminuir",
+            "objeto": [
+                "climatizador"
+            ]
+        }, 
+        {
+            "nome": "aumentar",
+            "objeto": [
+                "climatizador"
+            ]
+        },
+        {
+            "nome": "temperatura",
+            "objeto": {
+                "tempo": 29
+            }
+        }
+    ]
+}
