@@ -16,13 +16,13 @@
         {
             "nome": "diminuir",
             "objeto": [
-                "climatizador"
+                "temperatura"
             ]
         }, 
         {
             "nome": "aumentar",
             "objeto": [
-                "climatizador"
+                "temperatura"
             ]
         },
         {
